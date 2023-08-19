@@ -1,0 +1,6 @@
+manual:
+issues:
+  provider:  generic 
+commit_status: false
+release: 
+  - "*_release"
